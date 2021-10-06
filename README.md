@@ -1,28 +1,27 @@
 <a href="#"><img
     width="100%"
     height="auto"
-    src="https://github.com/saif-uddin-shrabon/saif-uddin-shrabon/blob/main/giphy%20(1).gif"
+    src="https://github.com/nferdous2/nferdous2/blob/main/giphy%20(1).gif"
     height="175px" /></a>
 
-<h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">Learn to code and Broke the hidden wall</h3>
+<h1 align="center">Hi 👋, I'm Noorjahan</h1>
 
 ## 🙋‍♂️ About Me 
--🌱 I’m currently learning **JavaScript** 
+-🌱 I’m currently learning **React** 
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/saif-uddin-shrabon)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/nferdous2)
 
-- 📫 My Email **shrabon06065@gmail.com** 
+- 📫 My Email **noorjahanferdous029@gmail.com** 
 
-- Skills: C++/ JS / HTML / CSS / BOOTSTRAP 
+- Skills: C/ JS / HTML / CSS / BOOTSTRAP /Tailwind /Typescript/ React
 
-- 🌱 I’m currently learning **JS / Java / Android**
+- 🌱 I’m currently learning **JS / React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saif-uddin-shrabon) 
+- 👨‍💻 All of my projects are available at [https://github.com/nferdous2) 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap** 
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,Tailwind** 
 
-- 📫 How to reach me **shrabon06065@gmail.com**
+- 📫 How to reach me **noorjahanferdous029@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -86,11 +85,11 @@
 </p>
 <p align="center">
 
-  <a href="https://github.com/saif-uddin-shrabon/github-readme-streak-stats">
+  <a href="https://github.com/nferdous2/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="saif-uddin-shrabon"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=saif-uddin-shrabon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+      alt="nferdous"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nferdous2&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
     />
   </a>
   !
@@ -100,15 +99,15 @@
 
 <br />
 <p align="center">
-<a href="https://github.com/saif-uddin-shrabon/github-readme-stats"
+<a href="https://github.com/nferdous2/github-readme-stats"
   ><img
-    alt="saif-uddin-shrabon Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=saif-uddin-shrabon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+    alt="nferdous Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=nferdous2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
-<a href="https://github.com/saif-uddin-shrabon/github-readme-stats"
+<a href="https://github.com/nferdous2/github-readme-stats"
   ><img
-    alt="saif-uddin-shrabon Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-uddin-shrabon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+    alt="nferdous Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nferdous2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
 </p>
 <br />
@@ -116,7 +115,7 @@
 <br />
 <br />
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-uddin-shrabon&theme=react-dark"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nferdous2&theme=react-dark"/></a>
 
 <br />
 <br />
@@ -125,10 +124,9 @@
 <p align="left">
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shrabon-456b45199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmrayat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saifuddin.shrabon.338/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmrayat" height="30" width="40" /></a>
-<a href="https://instagram.com/shrabon677" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asm.rayat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saif0606" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="raybot" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/profile.php?id=100012640713216" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmrayat" height="30" width="40" /></a>
+
 </p>
 
 </p>
@@ -136,11 +134,11 @@
 ## ❤ Views And Followers
 <p align="center">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=saif-uddin-shrabon" />
+    <img src="https://komarev.com/ghpvc/?username=nferdous2" />
   </a>
-  <a href="https://github.com/saif-uddin-shrabon?tab=followers"
+  <a href="https://github.com/nferdous2?tab=followers"
     ><img
-      src="https://img.shields.io/github/followers/saif-uddin-shrabon?label=Followers&style=social"
+      src="https://img.shields.io/github/followers/nferdous2?label=Followers&style=social"
       alt="GitHub Badge"
   /></a>
 </p>
