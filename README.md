@@ -1,7 +1,7 @@
 <a href="#"><img
     width="100%"
     height="auto"
-    src="https://github.com/nferdous2/nferdous2/blob/main/giphy(1).gif"
+    src="https://github.com/nferdous2/nferdous2/blob/main/giphy%(20)(1).gif"
     height="175px" /></a>
 
 <h1 align="center">Hi 👋, I'm Noorjahan</h1>
